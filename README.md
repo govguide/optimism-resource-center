@@ -1,1 +1,1 @@
-# optimism-resource-center
+# Optimism Resource Center
