@@ -1,7 +1,3 @@
----
-cssclasses:
-  - list-cards
----
 Welcome to the resource center for everything governance-related in the Optimism Collective. This centralized source of information replaces constant navigation between the various platforms (Forum, Community Hub, Charmverse, GitHub) where this information is now located.
 
 The main objectives for this resource center are:
