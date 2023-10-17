@@ -1,5 +1,5 @@
 > [!info]- This post was originally published in the Governance Forum
-> To view the source, please click [here](https://gov.optimism.io/t/code-of-conduct-councils/6888). Initially published on September 28, 2023 and last modified on September 29, 2023.
+> To view the source, please click [here](https://gov.optimism.io/t/code-of-conduct-councils/6888). Initially published on September 28, 2023 and last modified on October 11, 2023.
 
 <span class="notvisible"></span>
 ## Token House Code of Conduct Council Charter
@@ -47,6 +47,7 @@ The Council will be comprised of five members and a Council Lead. Decisions will
     - Facilitate coordination of review and host regular Council meetings, which should occur at least once per Voting Cycle in which reports are filed. It is suggested that meeting minutes or summaries be made available to the community.
     - Exercise decision-making authority in the event that the Council cannot come to consensus on an administrative or operational matter (ie. act as a tie breaker)
 - Warnings may still be administered by the support NERDs and/or the Foundation
+- Details about the application process for the Lead role will be posted soon
     
 
 ## Council Budget
