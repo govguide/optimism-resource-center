@@ -1,37 +1,51 @@
-<span class='notvisible' style="display: flex; flex-flow: column"><span style="border: 1px solid var(--background-modifier-border); padding: 24px; display: flex; flex-flow: column; border-radius: 4px 8px 8px 4px; border-left: 4px solid #8b6cef; gap: 16px"><span>#season-4</span><span>This post is mirrored from [https://gov.optimism.io/t/collective-trust-tiers/5877](https://gov.optimism.io/t/collective-trust-tiers/5877).</span></span><br /><br /></span>Collective Trust Tiers are the very first step towards establishing a connection between one’s positive impact in the ecosystem and access to different types of work, grants, and roles within the Collective. Over time, Trust Tiers will become more robust as they incorporate Attestations and impact scores derived from one’s activity in the ecosystem.
+> [!info]- This post was originally published in the Governance Forum
+> To view the source, please click [here](https://gov.optimism.io/t/collective-trust-tiers/5877). Initially published on April 13, 2023 and last modified on September 28, 2023.
 
-This is the first iteration of Collective Trust Tiers, which we will run as an experiment in Season 4. Both Tiers and their criteria are subject to change based on feedback. If continued for future Seasons, they may be ratified by the Token House. Over time, we expect Tiers to be based on Collectively agreed upon trust scores, calculated using Attestations.
+<span class="notvisible"></span>
+## Collective Trust Tiers
+
+Collective Trust Tiers are the very first step towards establishing a connection between one’s positive impact in the ecosystem and access to different types of work, grants, and roles within the Collective. Over time, Trust Tiers will become more robust as they incorporate Attestations and impact scores derived from one’s activity in the ecosystem.
+
+The first iteration of Collective Trust Tiers was run as an experiment in Season 4. The Trust Tiers have been updated for Season 5, based on delegate feedback. Both Tiers and their criteria are subject to change based on feedback. Over time, we expect Tiers to be based on Collectively agreed upon trust scores, calculated using Attestations.
 
 **Initially, Trust Tiers will be used to:**
 
-- Establish transparent standards for contribution and grant eligibility, specifically:
-    - Determining appropriate grant sizes for grants made by the Grants Council
-    - Determining funding eligibility for different Alliances proposing [[Token House Missions|Missions]]
-    - Specifying which Alliances may apply for [Foundation Missions (RFPs)](https://github.com/orgs/ethereum-optimism/projects/31/views/1)
+- Establish transparent standards for contribution and grant eligibility
 - Help people understand the types of contributions (and, over time, Attestations) we think are important for establishing the basis of reputation in the Collective
 
 ![[Collective Trust TiersImageOptimism.png]]
-### Ember Tier - Eligible to receive up to 100k OP
+**Please note that in Season 5 Trust Tiers will be applicable to both Delegate and Foundation Mission Requests (this includes all grants processed by the Grants Council.)**
 
-- Has never done work for or with the Optimism Collective before or has never received [[RetroPGF Round 2|RetroPGF]]
+### Ember Tier - Eligible to receive up to 50k OP
 
-### Fledgling Tier - Eligible to receive up to 350k OP
+- Has never done work for or with the Optimism Collective before and has never received retroPGF
 
-- Has done work for or with the Optimism Collective at least once before or previously received [[RetroPGF Round 2|RetroPGF]]
+### Fledgling Tier - Eligible to receive up to 250k OP
 
-### Eagle Tier - Eligible to receive between 350k OP and 1M OP
+- Has done work for or with the Optimism Collective at least once before or has received over 10k OP via retroPGF
+- Eligible to apply for simultaneous growth experiments grants (apply for program continuation before the first grant is fully disbursed)
 
-- Has repeatedly done work for the Optimism Collective or has received over 50k OP via [[RetroPGF Round 2|RetroPGF]]
+### Eagle Tier - Eligible to receive between 250k OP and 750k OP
 
-### Phoenix Tier - Eligible to receive over 1M OP
+- Has repeatedly done work for the Optimism Collective or has received over 50k OP via retroPGF
+- Eligible to apply for simultaneous growth experiments grants (apply for program continuation before the first grant is fully disbursed)
 
-- Has repeatedly done work for the Optimism Collective, at the Eagle Tier level, or has received over 100k OP via [[RetroPGF Round 2|RetroPGF]]
+### Phoenix Tier - Eligible to receive over 750k OP
+
+- Has repeatedly done work for the Optimism Collective, at the Eagle Tier level, or has received over 100k OP via retroPGF
+- Eligible to apply for simultaneous growth experiments grants (apply for program continuation before the first grant is fully disbursed)
 
 OR
 
 - Falls into one of the below categories:
-    - Councils
+    - Councils (The Grants Council may not apply to Mission Requests)
     - Core developers
-    - Partner Fund grant recipient
-    - Employees of OP Labs or the Optimism Foundation
+    - Foundation grant recipients
+    - Employees or contractors of OP Labs or the Optimism Foundation
     - Strategic Partners of the Optimism Foundation, as determined internally
+
+### Accountability Adjustments
+
+- If you or your team have been found to have violated the Code of Conduct since the start of the last Season, you must move down by one Tier
+- If you or your team have had a grant clawed back or have been found to have misused your grant - as defined in the [[Code of Conduct]] - since the last Season, you must re-set to the Ember Tier
+- You can reference team Tiers in the [public gov tracker](https://docs.google.com/spreadsheets/d/1Ul8iMTsOFUKUmqz6MK0zpgt8Ki8tFtoWKGlwXj-Op34/edit?usp=sharing) or in the [Foundation Mission Request repo](https://github.com/ethereum-optimism/ecosystem-contributions/issues?q=is%3Aissue+is%3Aopen+RFP)

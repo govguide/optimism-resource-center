@@ -1,4 +1,8 @@
-<span class='notvisible' style="display: flex; flex-flow: column"><span style="border: 1px solid var(--background-modifier-border); padding: 24px; display: flex; flex-flow: column; border-radius: 4px 8px 8px 4px; border-left: 4px solid #8b6cef; gap: 16px"><span>#policy #grants</span><span>This post is mirrored from [https://gov.optimism.io/t/grant-token-lock-explainer/5060](https://gov.optimism.io/t/grant-token-lock-explainer/5060).</span></span><br /><br /></span>Grants from the GovFund given directly to builders, projects and protocols are required by the Foundation to be locked for a year. There are two reasons:
+> [!info]- This post was originally published in the Governance Forum
+> To view the source, please click [here](https://gov.optimism.io/t/grant-token-lock-explainer/5060). Initially published on February 2, 2023 and last modified on June 27, 2023.
+
+<span class="notvisible"></span>
+Grants from the GovFund given directly to builders, projects and protocols are required by the Foundation to be locked for a year. There are two reasons:
 
 1. This creates **long-term incentive alignment** with Optimism. The Collective will be most successful with a community of builders and users who care about the Collective’s vision and are on board with the work required to get there. Locking grants helps prevent grantees from treating the GovFund as a short-term fix and aborting.
 2. OP is a **governance token.** It is not intended to fund operations or the cost of running a business. Locking token grants helps communicate to interested parties that the primary purpose of OP is for governance and incentive alignment, not for cash. Importantly, it also mitigates legal risk for both the Foundation and grant recipients.

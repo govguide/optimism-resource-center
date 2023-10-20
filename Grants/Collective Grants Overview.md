@@ -1,11 +1,16 @@
-<span class='notvisible' style="border: 1px solid var(--background-modifier-border); padding: 24px; display: flex; flex-flow: column; border-radius: 4px 8px 8px 4px; border-left: 4px solid #8b6cef; gap: 16px"><span>#season-4 #grants</span><span>This post is mirrored from [https://community.optimism.io/docs/governance/get-a-grant/](https://community.optimism.io/docs/governance/get-a-grant/). Listen to the audio version [[Collective Intents#^ce3b50|here]].</span></span>
-ㅤ
-**Collective Grants** support specific projects to be completed in the future. All Collective Grants are made in OP and are locked for one year, except growth experiments grants which may pass OP directly through to the end -users. Collective Grants may be distributed upon completing the milestones specific to your grant application.
+> [!info]- This post was originally published in the Community Docs
+> To view the source, please click [here](https://community.optimism.io/docs/governance/get-a-grant/). Last modified on August 18, 2023. Some additional notes have been added to highlight outdated information.
+
+<span class="notvisible"></span>
+**Collective Grants** support specific projects to be completed in the future. All Collective Grants are made in OP and are locked for one year, except growth experiments grants which may pass OP directly through to the end-users. Collective Grants may be distributed upon completing the milestones specific to your grant application.
 
 There are four different types of Collective Grants.
 ### 1. Grants Council
 
-The [[Grants Council]] is a group of community members elected by the Token House. The council makes small to medium-sized grants supporting [[Collective Intents#Intent 2 Innovate on Novel Applications|Intent #2]] based in two categories:
+>[!warning] 
+>The Grants Council is currently not processing applications. Below information might be outdated.
+
+The [[Grants Council]] is a group of community members elected by the Token House. The council makes small to medium-sized grants supporting [[(OLD) Collective Intents (Season 4)#Intent 2 Innovate on Novel Applications|Intent #2]] based in two categories:
 
 - **Builders Grants:** To support builders innovating on novel applications and infrastructure
 - **Growth Experiments Grants:** To support projects with strategies to drive more users on Optimism via novel incentive programs
@@ -14,15 +19,18 @@ Here are some examples of projects that received grants from the Grants Council 
 
 **How to apply:**
 
-- The [[Grants Council]] processes applications on five-week cycles during regular Voting Cycles. You can reference the [governance calendar](https://calendar.google.com/calendar/u/0/r?cid=Y19mbm10Z3VoNm5vbzZxZ2JuaTJncGVyaWQ0a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)for schedule and deadlines.
+- The [[Grants Council]] processes applications on five-week cycles during regular Voting Cycles. You can reference the [governance calendar](https://calendar.google.com/calendar/u/0/r?cid=Y19mbm10Z3VoNm5vbzZxZ2JuaTJncGVyaWQ0a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for schedule and deadlines.
 - Apply [here](https://app.charmverse.io/op-grants/page-701220845245208)! To understand the types of grants the Council would like to make, please see Requests for Grants (Coming soon!)
 - Watch [How to Apply to Grants Council](https://www.loom.com/share/e128bd6cca844fa7ae47a91510d37bda)
 
 ### 2. Token House **Missions**
 
+>[!warning] 
+> Token House Missions are currently closed for applications. Below information might be outdated.
+
 Missions are specific pieces of work proposed by contributors. The Token House votes on approving Missions once per Season (roughly once every four-six months).
 
-[[Token House Missions|Missions]] support a broader range of grants than the Grants Council. Any initiative that aligns with one of [[Collective Intents]] can receive a grant! Missions should be specific initiatives that can be completed start-to-finish (marked done by the end of the Season). You can propose a Mission under Intent #1, Intent #3, or Intent #4. All proposals under Intent #2 should be grant applications that will be processed by the Grants Council as outlined above in 1.
+[[Token House Missions|Missions]] support a broader range of grants than the Grants Council. Any initiative that aligns with one of [[(OLD) Collective Intents (Season 4)|Collective Intents]] can receive a grant! Missions should be specific initiatives that can be completed start-to-finish (marked done by the end of the Season). You can propose a Mission under Intent #1, Intent #3, or Intent #4. All proposals under Intent #2 should be grant applications that will be processed by the Grants Council as outlined above in 1.
 
 Here is a good [example](https://gov.optimism.io/t/superchain-governance-deep-dive/5920).
 
@@ -54,6 +62,9 @@ The [[Partner Fund Overview|Partner Fund]] is a grants program run by the Optim
 
 # Retroactive Grants (RetroPGF)
 
+>[!warning] 
+> The sign-up for RetroPGF Round 3 has already started and will close on October 23, 2023. You can apply here: https://app.optimism.io/signup
+
 RetroPGF stands for Retroactive Public Goods Funding. RetroPGF rewards are allocated by the Citizens’ House to reward work that has already been completed for its impact.
 
 If you’re working on something you believe is aligned with the Collective and you don’t need as much upfront certainty around scope of work, reward amount, or timing of rewards, you could be a good candidate for RetroPGF rewards.
@@ -67,14 +78,6 @@ If you’re working on something you believe is aligned with the Collective and 
 - In advance of Round 3, Optimism will circulate a Project Signup for candidates to describe their work.
 - Our [Ideas List](https://github.com/ethereum-optimism/ecosystem-contributions/issues) details many contributions that we believe would be strong candidates for RetroPGF rewards. Please indicate your interest by commenting on the relevant GitHub issue. There are no deadlines.
 
-—
+---
 
 Still not sure how the Collective can support work? Leave your questions [here](https://gov.optimism.io/t/how-to-get-a-grant-feedback/6057)
-
-
-> [!info] 
->  The content is mirrored from https://community.optimism.io/docs/governance/get-a-grant/ and was last updated on Jun 24, 2023. Last checked for changes on Aug 18, 2023.
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1593736796%3Fsecret_token%3Ds-c9tRX5BbgHV&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-
-![[ElevenLabs_2023-08-18T13_23_21.000Z_premade_Matthew.mp3]] ^aa1c3c
