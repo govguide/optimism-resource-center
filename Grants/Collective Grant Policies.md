@@ -1,7 +1,10 @@
-<span class='notvisible' style="display: flex; flex-flow: column"><span style="border: 1px solid var(--background-modifier-border); padding: 24px; display: flex; flex-flow: column; border-radius: 4px 8px 8px 4px; border-left: 4px solid #8b6cef; gap: 16px"><span>#policy #grants</span><span>This post is mirrored from [https://gov.optimism.io/t/collective-grant-policies/5833](https://gov.optimism.io/t/collective-grant-policies/5833).</span></span><br /></span>
+> [!info]- This post was originally published in the Governance Forum
+> To view the source, please click [here](https://gov.optimism.io/t/collective-grant-policies/5833). Initially published on April 6, 2023 and last modified on July 10, 2023.
+
+<span class="notvisible"></span>
 ### No Sale Policy for Growth Experiments
 
-**OP received through Growth Experiments Grants, or any grants made to distribute OP direclty on to end users, should not be sold by the grant recipient.** This “no sale” rule:
+**OP received through Growth Experiments Grants, or any grants made to distribute OP directly on to end users, should not be sold by the grant recipient.** This “no sale” rule:
 
 - _Includes the grant recipient, their affiliates and any other related persons._ These persons cannot receive OP for the purpose of selling (or if the grant recipient knows they intend to sell) the tokens.
 - _Includes the direct exchange of OP for crypto or fiat, whether done publicly or privately._ Think selling OP in exchange for fiat or crypto, regardless of whether done on a CEX, DEX, OTC desk, at your local park, or otherwise.
