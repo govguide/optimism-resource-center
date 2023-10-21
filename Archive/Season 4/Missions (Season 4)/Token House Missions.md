@@ -1,10 +1,14 @@
-<span class='notvisible' style="display: flex; flex-flow: column"><span style="border: 1px solid var(--background-modifier-border); padding: 24px; display: flex; flex-flow: column; border-radius: 8px; gap: 16px"><span>#season-4</span><span>This post is mirrored from [https://gov.optimism.io/t/token-house-missions/5881](https://gov.optimism.io/t/token-house-missions/5881). Listen to the audio version here.</span></span><br /><br /></span>Season 4 aligns the entire community around Collective [[Collective Intents (Season 4)|Intents]]. **All work supported or executed by the Collective should be in pursuit of our Collective Intents.**
+> [!info]- This post was originally published in the Governance Forum
+> To view the source, please click [here](https://gov.optimism.io/t/token-house-missions/5881). Initially published on April 13, 2023 and last edited on April 21, 2023.
+
+<span class="notvisible"></span>
+Season 4 aligns the entire community around Collective [[(OLD) Collective Intents (Season 4)|Intents]]. **All work supported or executed by the Collective should be in pursuit of our Collective Intents.**
 
 This is a simple concept, but it is distinct from the way work is supported and executed in most DAOs. The Season 4 structure is designed very intentionally, based on our [research](https://twitter.com/lalalavendr/status/1631349711956484097?cxt=HHwWgoDR2e7626MtAAAA), to avoid some common challenges faced by other daos. These challenges usually relate to a structure wherein working groups resembling persistent business units are individually funded for an indefinite period of time. Individual budgets are allocated out of an unscoped treasury and consolidate into an overall budget that is unsustainable and tends to overfund non-core work and underfund strategic work ([see slide 8](https://drive.google.com/file/d/1eawsta5kJm3ikY8U8ImbPrO0Dodk-amL/view?usp=sharing)).
 
 **As an alternative to the traditional working group structure, Season 4 introduces Token House Missions, to support specific initiatives aligned with our Intents.**
 
-![Missions](https://global.discourse-cdn.com/standard10/uploads/bc41dd/optimized/2X/8/829ccd115054a5c182fa8e899002967d25e19a4a_2_690x266.png)
+![[Missions.png]]
 
 ## What is a Mission?
 
@@ -27,7 +31,7 @@ Missions are specific initiatives aimed at achieving one of the Intents. They ar
 
 Missions are executed by [[Season 4 Alliance Guide|Alliances]], groups of contributors that _temporarily_ work together to accomplish a Mission. Alliances may be external organizations or groups of internal contributors. We may host a process to help facilitate the formation of internal Alliances. **Alliances may only propose Missions or apply to accept Foundation Missions (RFPs) at their corresponding [[Collective Trust Tiers|Collective Trust Tier]].** If an Alliance is comprised of individual contributors tiers, the Tier at which that Alliance may submit should be the Tier at which the Alliance Lead qualifies. Due to their narrow and specific scope, Alliances may wish to submit multiple Mission proposals. **Alliances may submit a maximum of three Mission proposals per period.** You can read more about forming an Alliance [[Season 4 Alliance Guide|here]].
 
-![How it comes together](https://global.discourse-cdn.com/standard10/uploads/bc41dd/optimized/2X/8/886a65a473e5c6ebdd394d082c127c749a7c28b1_2_584x500.png)
+![[How it comes together.png]]
 
 ## How do I Apply to Accept a Foundation Mission?
 

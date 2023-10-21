@@ -1,3 +1,7 @@
+> [!info]- This post was originally published in the Governance Forum
+> To view the source, please click [here](https://gov.optimism.io/t/how-to-vote-on-mission-proposals/6203). Initially published on June 21, 2023 and last edited on June 22, 2023.
+
+<span class="notvisible"></span>
 # Approval Ranking Example
 
 Mission proposals will be approval ranked based on the number of yes votes. Each Mission proposal must receive a minimum number of yes votes, equal to 51% of quorum. Any Mission that does not receive > required number of yes votes will not qualify for a budget allocation. The top ranked proposals, above the minimum number of yes votes, will be accepted until the Intent Budget runs out. If a Mission would push the Intent Budget over the approved amount, it will not be included. Any Intent Budgets left over will be returned to the Governance Fund.
@@ -39,4 +43,4 @@ As a voter, you should vote `yes` on all Missions you think deserve funding, a
 - You should consider the number of Missions any given Alliance member has committed to execute. While there is no limit to the number of Alliances someone can be a part of, there is a natural limit to the amount any given member can contribute.
 - You should consider whether the budget is adequate to support the milestones laid out in the proposal. Impact above and beyond what’s required to execute the proposal may be rewarded by RetroPGF in the future.
 
-Ultimately, the decision is up to Token House delegates! Use your best judgment when evaluating Mission proposals to ensure they are value-aligned and work towards our [Collective Intents 5](https://gov.optimism.io/t/collective-intents/5874/2), are proposed by legimate Alliances, and are scoped appropriately to be effectively evaluated in the next [round of RetroPGF 2](https://optimism.mirror.xyz/oVnEz7LrfeOTC7H6xCXb5dMZ8Rc4dSkD2KfgG5W9cCw) ![:red_circle:](https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12 ":red_circle:") ![:sparkles:](https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12 ":sparkles:")
+Ultimately, the decision is up to Token House delegates! Use your best judgment when evaluating Mission proposals to ensure they are value-aligned and work towards our [Collective Intents](https://gov.optimism.io/t/collective-intents/5874/2), are proposed by legimate Alliances, and are scoped appropriately to be effectively evaluated in the next [round of RetroPGF](https://optimism.mirror.xyz/oVnEz7LrfeOTC7H6xCXb5dMZ8Rc4dSkD2KfgG5W9cCw) 🔴✨

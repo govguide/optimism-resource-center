@@ -1,14 +1,16 @@
-#season-4 #proposal #template
+> [!info]- This post was originally published in the Governance Forum
+> To view the source, please click [here](https://gov.optimism.io/t/proposed-mission-template/5882). Initially published on April 13, 2023 and last edited on June 22, 2023.
 
+<span class="notvisible"></span>
 _We welcome feedback on the below proposal template_
 
 ---
 
-> **S4 [Intent 54](https://gov.optimism.io/t/collective-intents/5874/2):**
+> **S4 [Intent](https://gov.optimism.io/t/collective-intents/5874/2):**
 > 
 > **Proposed Mission:** Please include a one line description (tl;dr)
 > 
-> [**Proposal Tier** 54](https://gov.optimism.io/t/collective-trust-tiers/5877/2):
+> [**Proposal Tier**](https://gov.optimism.io/t/collective-trust-tiers/5877/2):
 > 
 > **Please verify that you meet the qualifications for submitting at the above Tier:** If an Alliance is comprised of individual contributors tiers, the Tier at which that Alliance may submit should be the Tier at which the Alliance Lead qualifies.
 > 
@@ -60,13 +62,13 @@ _We welcome feedback on the below proposal template_
 
 ---
 
-### [](https://gov.optimism.io/t/proposed-mission-template/5882#mission-proposal-example-for-illustrative-purposes-only-2)Mission Proposal Example (for illustrative purposes only)
+### Mission Proposal Example (for illustrative purposes only)
 
 **S4 Intent:** Governance Accessibility (Intent 4)
 
 **Proposed Mission:** Maintain the Collective Archives
 
-**[Proposal Tier]**([Collective Trust Tiers - #2 54](https://gov.optimism.io/t/collective-trust-tiers/5877/2)): Ember
+**[Proposal Tier](https://gov.optimism.io/t/collective-trust-tiers/5877/2)**: Ember
 
 **Please verify that you meet the qualifications for your Tier:** I am a new community member that has not worked with or for the Optimism Collective before
 

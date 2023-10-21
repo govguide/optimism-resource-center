@@ -1,12 +1,16 @@
+> [!info]- This post was originally published in the Governance Forum
+> To view the source, please click [here](https://gov.optimism.io/t/season-4-alliance-guide/5873). Initially published on April 13, 2023 and last edited on April 27, 2023.
+
+<span class="notvisible"></span>
 ## Season 4 Alliance Guide
 
-An Alliance is a group of people (new or pre-existing) that will work together to complete a Mission. An Alliance can be a pre-established organization or a group of contributors that comes together specifically to complete a [Mission 57](https://gov.optimism.io/t/token-house-missions/5881/2).
+An Alliance is a group of people (new or pre-existing) that will work together to complete a Mission. An Alliance can be a pre-established organization or a group of contributors that comes together specifically to complete a [Mission](https://gov.optimism.io/t/token-house-missions/5881/2).
 
-### [](https://gov.optimism.io/t/season-4-alliance-guide/5873#what-does-an-alliance-need-2)What Does an Alliance Need?
+### What Does an Alliance Need?
 
 There are a few key features that all Alliances need to have:
 
-- **A leader.** The [Trust Tier 39](https://gov.optimism.io/t/collective-trust-tiers/5877) of the leader is the Trust Tier of the whole Alliance. See more about Trust Tiers here. The leader will also be the main communication point for governance to ask questions and get updates, and should be available for such.
+- **A leader.** The [Trust Tier](https://gov.optimism.io/t/collective-trust-tiers/5877) of the leader is the Trust Tier of the whole Alliance. See more about Trust Tiers here. The leader will also be the main communication point for governance to ask questions and get updates, and should be available for such.
     
 - **A Mission.** The Mission can be a Foundation Mission (RFP) that the Alliance is applying for or a Mission the Alliance is proposing (Proposed Mission.)
     
@@ -17,7 +21,7 @@ There are a few key features that all Alliances need to have:
     - If proposing a Mission, an Alliance should also be able to defend its Proposed Mission’s potential impact on the Collective.
         
 
-## [](https://gov.optimism.io/t/season-4-alliance-guide/5873#what-does-a-good-alliance-have-3)What Does a Good Alliance Have?
+## What Does a Good Alliance Have?
 
 A good Alliance has the following:
 
