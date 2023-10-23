@@ -1,18 +1,18 @@
 > [!info]- This post was originally published in the Community Docs
-> To view the source, please click [here](https://community.optimism.io/docs/governance/retropgf-3). Last modified on September 19, 2023.
+> To view the source, please click [here](https://community.optimism.io/docs/governance/retropgf-3). Last edited on October 22, 2023.
 
 <span class="notvisible"></span>
 The Optimism Collective’s third round of Retroactive Public Goods Funding (RetroPGF) will take place in fall of 2023. RetroPGF 3 will allocate 30m OP tokens to **reward contributions that have supported the development and adoption of Optimism.**
 
 ### Process Overview
 
-1. Project Applications: Sept 19th - Oct 23rd
+1. Project Applications: Sept 19th - Oct 23rd 23:00 PT
 2. Voting: November 6th - December 7th
 3. Results & Token Disbursement: Starting early January
 
 ## Project Applications
 
-👉 **Applications for RetroPGF Round 3 are open! You can apply [here](http://app.optimism.io/retropgf-signup) until October 23rd.**
+👉 **Applications for RetroPGF Round 3 are open! You can apply [here](http://app.optimism.io/retropgf-signup) until 23:00 PT on October 23rd.
 
 Every type of contributor to the Optimism ecosystem is eligible for RetroPGF. Whether you’re a developer working on an Ethereum execution client or an educator creating Optimism-inspired video content, if you’re providing impact, you’re eligible! RetroPGF is open to all Optimism artists, creators, writers, builders, and evangelists.
 
