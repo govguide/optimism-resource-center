@@ -12,7 +12,7 @@ The Optimism Collective’s third round of Retroactive Public Goods Funding (Ret
 
 ## Project Applications
 
-👉 **Applications for RetroPGF Round 3 are open! You can apply [here](http://app.optimism.io/retropgf-signup) until 23:00 PT on October 23rd.
+👉 **Applications for RetroPGF Round 3 are open! You can apply [here](http://app.optimism.io/retropgf-signup) until 23:00 PT on October 23rd.**
 
 Every type of contributor to the Optimism ecosystem is eligible for RetroPGF. Whether you’re a developer working on an Ethereum execution client or an educator creating Optimism-inspired video content, if you’re providing impact, you’re eligible! RetroPGF is open to all Optimism artists, creators, writers, builders, and evangelists.
 
