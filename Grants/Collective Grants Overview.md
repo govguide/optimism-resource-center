@@ -63,7 +63,7 @@ The [[Partner Fund Overview|Partner Fund]] is a grants program run by the Optim
 # Retroactive Grants (RetroPGF)
 
 >[!warning] 
-> The sign-up for RetroPGF Round 3 has already started and will close on October 23, 2023. You can apply here: https://app.optimism.io/signup
+> The sign-up for RetroPGF Round 3 has closed on October 23, 2023.
 
 RetroPGF stands for Retroactive Public Goods Funding. RetroPGF rewards are allocated by the Citizens’ House to reward work that has already been completed for its impact.
 
