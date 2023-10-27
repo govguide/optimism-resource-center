@@ -1,5 +1,5 @@
 > [!info]- This post was originally published in the Community Docs
-> To view the source, please click [here](https://community.optimism.io/docs/governance/retropgf-3). Last edited on October 22, 2023.
+> To view the source, please click [here](https://community.optimism.io/docs/governance/retropgf-3). Last edited on October 26, 2023.
 
 <span class="notvisible"></span>
 The Optimism Collective’s third round of Retroactive Public Goods Funding (RetroPGF) will take place in fall of 2023. RetroPGF 3 will allocate 30m OP tokens to **reward contributions that have supported the development and adoption of Optimism.**
@@ -12,18 +12,9 @@ The Optimism Collective’s third round of Retroactive Public Goods Funding (Ret
 
 ## Project Applications
 
-👉 **Applications for RetroPGF Round 3 are open! You can apply [here](http://app.optimism.io/retropgf-signup) until 23:00 PT on October 23rd.**
+👉 **Applications for RetroPGF Round 3 are closed! You can see applications on the voting applications from [Agora](https://vote.optimism.io/retropgf/3) and [West](https://round3.optimism.io/)**
 
-Every type of contributor to the Optimism ecosystem is eligible for RetroPGF. Whether you’re a developer working on an Ethereum execution client or an educator creating Optimism-inspired video content, if you’re providing impact, you’re eligible! RetroPGF is open to all Optimism artists, creators, writers, builders, and evangelists.
-
-If your work has made an impact in any of the four categories below, you should submit an application for RetroPGF.
-
-- **OP Stack**: Work that enhanced the efficiency, security, resilience, and awareness of the OP Stack
-- **Collective Governance**: Work that provided impact to governance participants of the Optimism Collective, or helped bring new governance participants into the Collective
-- **Developer Ecosystem**: Work that provided impact to application developers in the Optimism Collective, or helped bring new developers into the Collective.
-- **End User Experience & Adoption**: Work that provided impact to end users in the Optimism Collective, or helped bring new end users into the Collective
-
-![Optimism Identity](https://github.com/ethereum-optimism/community-hub/assets/43515441/cc322715-ca46-4338-870d-967098bd242a)
+Every type of contribution to the Optimism ecosystem is eligible for RetroPGF. Whether you’re a developer working on an Ethereum execution client or an educator creating Optimism-inspired video content, if you’re providing impact, you’re eligible! RetroPGF is open to all Optimism artists, creators, writers, builders, and evangelists. If you're looking for inspiration on what you could contribute to the Optimism Collective, check out the [Ecosystem Contributions Board](https://github.com/ethereum-optimism/ecosystem-contributions)
 
 ## Badgeholders & Voting
 
