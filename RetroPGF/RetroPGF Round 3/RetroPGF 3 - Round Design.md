@@ -1,5 +1,5 @@
 > [!info]- This post was originally published in the Governance Forum
-> To view the source, please click [here](https://gov.optimism.io/t/retropgf-3-round-design/6802). Initially published on September 12, 2023 and last modified on September 13, 2023.
+> To view the source, please click [here](https://gov.optimism.io/t/retropgf-3-round-design/6802). Initially published on September 12, 2023 and last edited on October 27, 2023.
 
 <span class="notvisible"></span>
 ![[Untitled (5).png]]
@@ -97,8 +97,8 @@ Round 3 voting applications and design will allow for a more coherent experience
 - Voting design is more aligned with the role of badgeholders roles
     - Each badgeholders allocates up to 30m OP across projects.
     - Badgeholders can choose to only use a portion of their voting power
-    - Each badgeholder can allocate up to 10m OP per project
-    - Results are calculated using the Median, with additional considerations.
+    - Each badgeholder can allocate up to 5m OP per project
+    - Results are calculated using the median. Each application needs to receive a minimum Quorum of votes from 17 badgeholders to qualify. 
     - Votes are private, only accessible to the Optimism Foundation for purposes of enforcing the [[Code of Conduct]]
 
 _Our hypothesis is that these voting applications will make the job of badgeholders easier and drive voting behavior to be more aligned with RetroPGF vision and goals._
