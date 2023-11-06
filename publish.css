@@ -70,6 +70,10 @@ background: var(--background-bg-paper);
 ::selection {
 background-color: #2173df33;
 }
+.site-body-right-column-inner::-webkit-scrollbar, .site-body-right-column-inner::-webkit-scrollbar-thumb {
+    width: 8px;
+    visibility: hidden;
+}
 @media screen and (max-width: 750px) {
 .published-container.is-readable-line-width .markdown-preview-sizer {
 background: var(--background-color-main);
@@ -77,6 +81,7 @@ box-shadow: var(--boxshadowbackground);
 border-radius: 20px;
 border: 1px solid var(--background-modifier-border);
 min-height: 100vh;
+padding-bottom: 32px!important;
 }
 .page-header {
 margin-top: 1em;
