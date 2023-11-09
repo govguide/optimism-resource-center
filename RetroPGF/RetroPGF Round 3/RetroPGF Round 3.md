@@ -10,15 +10,29 @@ The Optimism Collective’s third round of Retroactive Public Goods Funding (Ret
 2. Voting: November 6th - December 7th
 3. Results & Token Disbursement: Starting early January
 
+## Voting
+
+👉 **Voting is live** (Nov 6th - Dec 7th). There are two applications badgeholders can use to vote in RetroPGF 3:
+
+- West - https://round3.optimism.io/
+- Agora - https://vote.optimism.io/
+
+In addition, there's useful tooling that has been built to support badgeholders:
+
+- [Pairwise](https://www.pairwise.vote/) - Gamifying list creation by categorizing applicants into small groups for experts' pairwise comparison.
+- [OpenSource Observer](https://www.opensource.observer/) - An Analytics platform for impact metrics on RetroPGF applications
+
+Badgeholders can find all the information relevant for voting in the [Badgeholder Manual](https://www.optimism.io/badgeholder-manual)
+
 ## Project Applications
 
 👉 **Applications for RetroPGF Round 3 are closed! You can see applications on the voting applications from [Agora](https://vote.optimism.io/retropgf/3) and [West](https://round3.optimism.io/)**
 
 Every type of contribution to the Optimism ecosystem is eligible for RetroPGF. Whether you’re a developer working on an Ethereum execution client or an educator creating Optimism-inspired video content, if you’re providing impact, you’re eligible! RetroPGF is open to all Optimism artists, creators, writers, builders, and evangelists. If you're looking for inspiration on what you could contribute to the Optimism Collective, check out the [Ecosystem Contributions Board](https://github.com/ethereum-optimism/ecosystem-contributions)
 
-## Badgeholders & Voting
+## Badgeholders
 
-- Voting badges for Round 3 have been distributed. Find out more details about this process [[RetroPGF 3 -  Voting badge distribution|here]].
+- In RetroPGF 3, there are 146 badgeholders who were selected via a multitude of methods. Find out more details about this process [[RetroPGF 3 - Voting badge distribution results|here]].
 - If you're a badgeholder, you can go to the [badgeholder hub](https://plaid-cement-e44.notion.site/Badgeholder-hub-6a35e12d876048868e4ae264dbadd076?pvs=4) to find relevant resources and stay up to date.
 - If you want to find out more about how voting in RetroPGF 3 works, check out the [[RetroPGF 3 - Round Design|Round Design documentation]].
 
