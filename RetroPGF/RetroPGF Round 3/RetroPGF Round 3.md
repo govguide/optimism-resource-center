@@ -1,5 +1,5 @@
 > [!info]- This post was originally published in the Community Docs
-> To view the source, please click [here](https://community.optimism.io/docs/governance/retropgf-3). Last edited on October 26, 2023.
+> To view the source, please click [here](https://community.optimism.io/docs/governance/retropgf-3). Last edited on November 7, 2023.
 
 <span class="notvisible"></span>
 The Optimism Collective’s third round of Retroactive Public Goods Funding (RetroPGF) will take place in fall of 2023. RetroPGF 3 will allocate 30m OP tokens to **reward contributions that have supported the development and adoption of Optimism.**
