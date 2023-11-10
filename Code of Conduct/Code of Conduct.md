@@ -1,5 +1,5 @@
 > [!info]- This post was originally published in the Governance Forum
-> To view the source, please click [here](https://gov.optimism.io/t/code-of-conduct/5751). Initially published on March 27, 2023 and last modified on September 29, 2023.
+> To view the source, please click [here](https://gov.optimism.io/t/code-of-conduct/5751). Initially published on March 27, 2023 and last edited on October 30, 2023.
 
 <span class="notvisible"></span>
 Scope: This Code of Conduct applies to all active delegates, badgeholders, grant recipients (“Optimists”). This Code of Conduct applies within all community spaces and when an individual is representing the community in public, either online or offline.
@@ -66,7 +66,7 @@ Grant recipients:
     - 10b. Any offer for external compensation relating to delegation or external compensation relating to the Optimism Protocol must be promptly disclosed.
     - 10c. Delegates are prohibited from approving and voting on their own proposals. Delegates may not vote for their own candidacy in an election. In the case of approval/ranked choice votes, delegates may vote for themselves, so long as they also cast votes for the remaining elected positions.
         - _Example: I can vote for my own candidacy on the Growth Experiments committee, so long as I also cast 4 additional votes (a total of 5 votes, as there are 5 open positions on the sub-committee.)_
-    - 10d. Badgeholders should not vote for organizations where they expect any portion of funds to flow to them or any projects they are affiliated with. At a minimum, badgeholders must disclose any project they have a meaningful financial or reputational stake in.
+    - 10d. Badgeholders should not vote for organizations where they expect any portion of funds to flow to them or any projects from which they derive income.
 
 Additionally, protocols participating in the Protocol Delegation Program must:
 
