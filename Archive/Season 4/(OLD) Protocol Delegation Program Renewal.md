@@ -2,6 +2,9 @@
 > To view the source, please click [here](https://gov.optimism.io/t/protocol-delegation-program-renewal/5883). Initially published on April 13, 2023 and last edited on May 23, 2023.
 
 <span class="notvisible"></span>
+> [!quote] Update
+>The Protocol Delegation Program was an experiment run throughout Season 3 and Season 4 and will not continue in the future. Similar programs, that draw on the learnings from this experiment, may be introduced in future Seasons.
+
 Protocols building on Optimism are among its most important stakeholders and they value having a voice in the development of the ecosystem. In Season 3, the Protocol Delegation Program was piloted as a way to enable protocols to participate in governance.
 
 The Protocol Delegation Program temporarily delegates a portion of idle OP from the Governance Fund to value-aligned protocols based on pre-defined criteria. This program was designed to last two Seasons in total, at which point protocols will need to reaffirm their commitment to Optimism governance via their own treasuries.
