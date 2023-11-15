@@ -2,7 +2,7 @@
 > To view the source, please click [here](https://gov.optimism.io/t/introducing-optimism-co-granting/5870). Initially published on April 13, 2023 and last edited on June 9, 2023.
 
 <span class="notvisible"></span>
-> [!quote] 
+> [!quote] Update
 >While we [the Optimism Foundation] were impressed by the number of co-grantors that helped to make this experiment a success, we will not continue this experiment in Season 5. Instead, we will focus efforts on a larger scale more sustainable source of capital for projects with this Foundation Mission Request: [Optimism Ecosystem Investment Network.](https://github.com/ethereum-optimism/ecosystem-contributions/issues/110)
 
 Based on feedback from builders and delegates, the Optimism Collective is piloting a new co-granting mechanism in Season 4!
