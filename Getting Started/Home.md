@@ -3,9 +3,9 @@ image: https://i.ibb.co/9gyp0Tp/optimism-help-Getting-Started-Home-5.png
 ---
 Resources related to the governance system of the Optimism Collective are currently dispersed across a range of locations such as the Community Hub,  the Optimism Governance Forum, the Mirror blog, the old Medium blog, GitHub, Charmverse and Notion.
 
-This fragmentation negatively impacts the accessibility of Optimism governance and makes the system difficult to understand for all but a few high-context governance participants.
+This fragmentation negatively impacts the accessibility of Optimism governance and makes the system difficult to understand for all but a few high-context governance participants. To make it easier to navigate seamlessly across available resources, the Optimism Resource Center consolidates all resources from the various platforms into a single place.
 
-To make it easier to navigate seamlessly across available resources, the Optimism Resource Center consolidates all resources from the various platforms into a single place.
+**👉 Due to the iterative nature of Optimism governance, many resources are regularly updated. To not miss any policy changes and additions, see the changelog [[Changelog|here]].**
 
 ## Getting Started
 
@@ -28,6 +28,7 @@ Learn about the different types of Collective Grants, trust tiers, and grant pol
 - [[Public Reporting Requirements for Grantees]]
 - Grants Council
    - [[(DRAFT) Proposed Grants Council Charter - Season 5]]
+   - [[Season 5 Grants Council Operating Budget]]
 - Missions
    - [[Missions v2 - Season 5]]
    - [[Delegate Guide - How to Create a Delegate Mission Request]]
