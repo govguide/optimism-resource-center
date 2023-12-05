@@ -1,10 +1,10 @@
 > [!info]- This post was originally published in the Governance Forum
-> To view the source, please click [here](https://gov.optimism.io/t/collective-intents-season-5/6883). Initially published on September 28, 2023 and last modified on October 3, 2023.
+> To view the source, please click [here](https://gov.optimism.io/t/collective-intents-season-5/6883). Initially published on September 28, 2023 and last modified on October 25, 2023.
 
 <span class="notvisible"></span>
 # Collective Intents
 
-![[24fcf4d461801101712062c629871075f878ecdb.jpeg]]
+![[image (2).png]]
 ## Intent 1: Progress towards technical decentralization
 
 The Optimism Collective must continue to make progress on its core value proposition to provide resilient, decentralized, scalable compute.
@@ -68,13 +68,24 @@ The Governance Fund will support this Intent in a limited capacity:
 - Contributions that support development and adoption of account abstraction wallets
 - Frontends to increase access to Optimism’s canonical bridge contracts
 
-## Intent 3: TBD - set by community
+## Intent 3: Improve the Consumer Experience
 
-*The community will set Intent #3, facilitated by an Intent Setting Workshop hosted on October 11th at 17:00 GMT. Please post your suggestions [here](https://gov.optimism.io/t/intent-3-season-5/6895) BEFORE the workshop.*
+_Intent #3 has been set by Token House delegates, with the help of Simona Pop._
 
-*Check the [governance calendar](https://calendar.google.com/calendar/u/0/r?cid=Y19mbm10Z3VoNm5vbzZxZ2JuaTJncGVyaWQ0a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for more details.*
+To onboard more users to the Optimism network, we must make it easier to engage with practical use cases. This improvement will be vital in expanding our reach and impact.
 
-*The Optimism Foundation recommends this Intent be focused on the consumer or end-user to align with RetroPGF [[Announcing RetroPGF Round 3|scope]].*
+**Collective Measurements**
+
+- Number of new wallet addresses with a verified anti-sybil check
+- Number of repeat transactions from new addresses
+- Number of transactions from new addresses that occur via non-DeFi applications
+
+**How the Governance Fund Supports Intent #3:** Intent #3 will be primarily supported by the Governance Fund.
+
+**Example * Delegate Mission Requests:**
+
+- Development of practical use cases covering areas like gaming, encrypted on-chain data ownership for companies and individuals, digital identity, ZK application infrastructure, social applications, and remittance/transfer infrastructure.
+- Experience enhancements that may include fiat on/off ramps, UX improvements (e.g., EIP 6551 and EIP 4337), web2 profile import to web3 profiles, and innovations that streamline on-chain activities.
 
 ## Intent 4: Improve governance accessibility
 
