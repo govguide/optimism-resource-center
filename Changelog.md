@@ -5,6 +5,8 @@ To ensure that the Resource Center is always up to date, we are currently experi
 
 |Activity|GitHub Link|Date*|
 |---|---|---|
+|Updated [[Code of Conduct]] to reflect upstream changes|[GitHub commit](https://github.com/govguide/optimism-resource-center/commit/9f57358c3eae6e1f4cbf3e75ed35f86e0278a24c)|Dec 13|
+|Added [[Optimist Expectations]]|[GitHub commit](https://github.com/govguide/optimism-resource-center/commit/948449e843d7d2c59c23ab25bdea019fac73f418)|Dec 13|
 |Added [[Grants Council Charter v0.1]]|[GitHub commit](https://github.com/govguide/optimism-resource-center/commit/7131392a17345e916e1cd897e6d22324bb4853ce#diff-c2f514c037f9e6f7cc6a3eeef00525cd3e68b7c5e4ba9b2691f7fc2f467c949e)|Nov 14|
 |Updated [[RetroPGF Round 3]] to reflect upstream changes|[GitHub commit](https://github.com/govguide/optimism-resource-center/commit/e57d2dc6058ce4c2b8e26a413d7027e054b649e0)|Nov 7|
 |Updated [[RetroPGF 3 - Voting badge distribution results]] to reflect upstream changes|[GitHub commit](https://github.com/govguide/optimism-resource-center/commit/c1448bd7f74b7a81bcd8bee63766f1d7eb86315c)|Nov 3|
