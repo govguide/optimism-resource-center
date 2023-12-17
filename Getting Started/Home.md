@@ -27,7 +27,7 @@ Learn about the different types of Collective Grants, trust tiers, and grant pol
 - [[Grant Token Lock Explainer]]
 - [[Public Reporting Requirements for Grantees]]
 - Grants Council
-   - [[(DRAFT) Proposed Grants Council Charter - Season 5]]
+   - [[Grants Council Charter v0.1]]
    - [[Season 5 Grants Council Operating Budget]]
 - Missions
    - [[Missions v2 - Season 5]]
@@ -132,6 +132,7 @@ Learn more about the Code of Conduct and its enforcement.
 - [[Guidance on Severe Code of Conduct Violations]]
 - [[Rules of Engagement 2.0]]
 - [[Code of Conduct Councils]]
+- [[Optimist Expectations]]
 
 ## Governance Updates
 
