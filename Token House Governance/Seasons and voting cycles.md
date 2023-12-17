@@ -1,5 +1,5 @@
 > [!info]- This post was originally published in the Community Docs
-> To view the source, please click [here](https://community.optimism.io/docs/governance/token-house-history/). Last modified on May 19, 2023.
+> To view the source, please click [here](https://community.optimism.io/docs/governance/token-house-history/). Last modified on December 14, 2023.
 
 <span class="notvisible"></span>
 Token House governance operates on a seasonal schedule. Seasons are separated with a Reflection Period. Reflection Periods may be followed by Special Voting Cycles to adopt proposals that come out of the previous Reflection Period.
