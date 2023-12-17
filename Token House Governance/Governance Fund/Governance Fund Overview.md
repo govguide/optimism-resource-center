@@ -2,7 +2,7 @@
 alias: Governance fund
 ---
 > [!info]- This post was originally published in the Community Docs
-> To view the source, please click [here](https://community.optimism.io/docs/governance/gov-fund/). Last modified on June 16, 2023.
+> To view the source, please click [here](https://community.optimism.io/docs/governance/gov-fund/). Last modified on December 14, 2023.
 
 <span class="notvisible"></span>
 _[To discuss the Governance Fund, head to the Optimism governance forum](https://gov.optimism.io/t/governance-fund-discussion-thread/213)_.
@@ -14,13 +14,15 @@ The goal of the Governance Fund is to empower the OP community to proactively in
 
 The learn more about the purpose of the Governance Fund please read the [[Governance Fund Charter]].
 
+## Phase 2
+
+Phase 2 will distribute grants that align with Mission Requests. Please see [[Collective Grants Overview]] for further details.
+
 ## Phase 1
 
-Phase 1 will distribute grants to projects in the Optimism ecosystem. You can see how Phase 1 grants have been distributed to date in [the Governance Tracker](https://docs.google.com/spreadsheets/d/1eaHOlWB34ij1KGsXdaNyTQg4tt1Pu2JurJsElBb6a8k/edit#gid=0).
+Phase 1 distributed grants to projects in the Optimism ecosystem. You can see how Phase 1 grants have been distributed to date in [the Governance Tracker](https://docs.google.com/spreadsheets/d/1eaHOlWB34ij1KGsXdaNyTQg4tt1Pu2JurJsElBb6a8k/edit#gid=0).
 
-Any project on Optimism can [apply for a grant via the Optimism Grants Council](https://foul-porch-0eb.notion.site/Optimism-Grants-Council-090bb648d1854136b9630c608da7a8bc).
-
-When a project gets a proposal approved, they are still eligible to apply for further proposals. The Optimism Foundation recommends that projects distribute their initial allocation of tokens before requesting further tokens. Projects are also encouraged to reference data from the success of their initial distribution to strengthen their case in future proposals.
+When a project gets a proposal approved, they are still eligible to apply for further proposals. Projects are also encouraged to reference data from the success of their initial distribution to strengthen their case in future proposals.
 
 ## Phase 0
 
