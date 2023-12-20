@@ -13,8 +13,10 @@ To ensure that the Resource Center is always up to date, we are currently experi
 |Updated [[Existing Delegates]] to reflect upstream changes|[GitHub commit](https://github.com/govguide/optimism-resource-center/commit/51a40e2221d93c6cc4439f7be8e2191832bbbe61)|Dec 14|
 |Updated [[How to be a delegate]] to reflect upstream changes|[GitHub commit](https://github.com/govguide/optimism-resource-center/commit/a5cb572e03e1fd3d88fb663e113df0a5dc2c972f)|Dec 14|
 |Updated [[How to Delegate Your Tokens]] to reflect upstream changes|[GitHub commit](https://github.com/govguide/optimism-resource-center/commit/d3f8eb381280143a5701562ea3e9863694a5812c)|Dec 14|
+|Updated [[Rules of Engagement 2.0]] to reflect upstream changes|[GitHub commit](https://github.com/govguide/optimism-resource-center/commit/40b72ef166e8b98420f5d80e3fe1744e19fc289b)|Dec 13|
 |Updated [[Code of Conduct]] to reflect upstream changes|[GitHub commit](https://github.com/govguide/optimism-resource-center/commit/9f57358c3eae6e1f4cbf3e75ed35f86e0278a24c)|Dec 13|
 |Added [[Optimist Expectations]]|[GitHub commit](https://github.com/govguide/optimism-resource-center/commit/948449e843d7d2c59c23ab25bdea019fac73f418)|Dec 13|
+|Updated [[Anticapture Commission]] to reflect upstream changes|[GitHub commit](https://github.com/govguide/optimism-resource-center/commit/14928c46d9fd4baee6a2cfe504f9eff0d67f6229)|Dec 11|
 |Added [[Grants Council Charter v0.1]]|[GitHub commit](https://github.com/govguide/optimism-resource-center/commit/7131392a17345e916e1cd897e6d22324bb4853ce#diff-c2f514c037f9e6f7cc6a3eeef00525cd3e68b7c5e4ba9b2691f7fc2f467c949e)|Nov 14|
 |Updated [[RetroPGF Round 3]] to reflect upstream changes|[GitHub commit](https://github.com/govguide/optimism-resource-center/commit/e57d2dc6058ce4c2b8e26a413d7027e054b649e0)|Nov 7|
 |Updated [[RetroPGF 3 - Voting badge distribution results]] to reflect upstream changes|[GitHub commit](https://github.com/govguide/optimism-resource-center/commit/c1448bd7f74b7a81bcd8bee63766f1d7eb86315c)|Nov 3|
@@ -24,7 +26,7 @@ To ensure that the Resource Center is always up to date, we are currently experi
 |Updated [[RetroPGF 3 - Round Design]] to reflect upstream changes|[GitHub commit](https://github.com/govguide/optimism-resource-center/commit/d8154b5362f7e758be7e9c202e5e7218689214e6)|Oct 27|
 |Updated [[RetroPGF Round 3]] to reflect upstream changes|[GitHub commit](https://github.com/govguide/optimism-resource-center/commit/96b555feba6130a425f4603fa252eabc97ada1d8)|Oct 26|
 |Updated [[Collective Intents - Season 5]] to reflect upstream changes|[GitHub commit](https://github.com/govguide/optimism-resource-center/commit/3f2cc33db79ace43e2766b85c6456cab1b505c52)|Oct 25|
-|Added [[RetroPGF 3 - Voting badge distribution results]] to reflect upstream changes|[GitHub commit](https://github.com/govguide/optimism-resource-center/commit/44aa8fdb836883f41b7ea87aa84c8853bd482381)|Oct 23|
+|Added [[RetroPGF 3 - Voting badge distribution results]]|[GitHub commit](https://github.com/govguide/optimism-resource-center/commit/44aa8fdb836883f41b7ea87aa84c8853bd482381)|Oct 23|
 |Updated [[RetroPGF Round 3]] to reflect upstream changes|[GitHub commit](https://github.com/govguide/optimism-resource-center/commit/44aa8fdb836883f41b7ea87aa84c8853bd482381#diff-4d5215284e18b1eab07b06ca6b7c2ae8b4d75a6f4b936b99f053402566a9c8aa)|Oct 22|
 
 *All dates refer to when a resource was originally edited (or published), and not the date when those changes were reflected here in the Optimism Resource Center.
