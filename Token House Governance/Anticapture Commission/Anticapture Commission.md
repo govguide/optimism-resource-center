@@ -1,5 +1,5 @@
 > [!info]- This post was originally published in the Governance Forum
-> To view the source, please click [here](https://gov.optimism.io/t/anticapture-commission/6889). Initially published on September 28, 2023 and last modified on October 31, 2023
+> To view the source, please click [here](https://gov.optimism.io/t/anticapture-commission/6889). Initially published on September 28, 2023 and last modified on December 11, 2023
 
 <span class="notvisible"></span>
 Throughout Season 4, delegates provided feedback attesting to the importance of recognizing the highest impact delegates and creating standards around their expected participation. In Season 5, broadening the set of tokenholders involved in governance will be a focus, with a priority of ensuring that high impact individual delegates remain well represented in the Token House.
@@ -55,19 +55,17 @@ In exchange for being entrusted with additional voting power, Anticapture Commis
 - Calculate qualifying delegates at the mid-point of the Season and before the start of the next Season, including assessment of whether Members have upheld the Member Responsibities
 - Exercise decision-making authority in the event that the commission cannot come to consensus on a matter (ie. serve as tie breaker)
 
-### Qualifying Delegates
+### Qualifying Delegates (Illustrative, to be updated below at conclusion of Special Voting Cycle ``#16c``)
 
 - Grants Council Lead
 - Security Council Lead
 - Code of Conduct Council(s) Lead(s)
 - Linda Xie
 - Polynya
-- OPSNXambassadors*
-- L2BEAT
 - Lefteris Karapetsas
 - Olimpio
 - Jack Anorak
-- GFX Labs**
+- GFX Labs*
 - Penn Blockchain
 - Katie
 - Scott Moore
@@ -92,8 +90,7 @@ In exchange for being entrusted with additional voting power, Anticapture Commis
 - Optimisticus.eth
 - ITU Blockchain
 
-*The Synthetix Ambassadors were prevented from executing votes in Seasons 1 & 2, due to well documented voting issues on Snapshot
-**GFX was prevented from executing votes in Seasons 1 & 2, due to well documented voting issues on Snapshot
+*GFX was prevented from executing votes in Seasons 1 & 2, due to well documented voting issues on Snapshot
 
 ---
 
