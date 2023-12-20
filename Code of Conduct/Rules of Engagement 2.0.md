@@ -1,28 +1,36 @@
 > [!info]- This post was originally published in the Governance Forum
-> To view the source, please click [here](https://gov.optimism.io/t/rules-of-engagement-2-0/5728). Initially published on March 24, 2023 and last modified on June 16, 2023.
+> To view the source, please click [here](https://gov.optimism.io/t/rules-of-engagement-2-0/5728). Initially published on March 24, 2023 and last modified on December 13, 2023.
 
 <span class="notvisible"></span>
 Please carefully read and understand the following Rules of Engagement for the Optimism Collective. These rules are for all Optimism community spaces, like the Governance forum (Discourse), Discord & Reddit. By engaging in the Optimism Discourse, Discord & Reddit, you agree to abide by these Rules of Engagement.
 
 [[The Optimistic Vision|The Optimism Collective is an attempt to radically change how we can work together to create a powerful and sustainable digital ecosystem governed by and for its citizens]].
 
-We expect that a base level of civility, respect, and understanding be maintained within community spaces. _**The Optimism Collective is a place for working together.**_ Everyone deserves to be treated with respect. [[Guidance on Severe Code of Conduct Violations|Harassment is not tolerated]].
+At a minimum, we expect that a base level of civility, respect, and understanding be maintained within community spaces. Only when everyone works together and engages respectfully, can the Collective reach its potential.
+
+The following behaviors are severe violations and will not be tolerated. **Severe violations will result in immediate suspension from community spaces.**
+
+- 1a. Discrimination against any person based on identifying features, such as religion, sexuality, ethnicity or geographical location.
+    
+- 1b. Public or private harassment (as defined [[Guidance on Severe Code of Conduct Violations|here]])
+    
+- 1c. The use of sexualized language or imagery and unwelcome sexual attention or advances
+    
+- 1d. Intentionally doxxing (as defined [[Guidance on Severe Code of Conduct Violations|here]])
 
 ---
 
 1. _**Everyone deserves to be treated with respect, no exceptions.**_
-    <br>
-    - _**[[Guidance on Severe Code of Conduct Violations|Harassment and discrimination]] of any kind are not tolerated.**_
-    
-        Harassment is defined [[Guidance on Severe Code of Conduct Violations|here]]. Discrimination is defined as discriminating against any person based identifying features, such as religion, sexuality, ethnicity or geographical location. Actions reported in violation of this clause will result in suspension from community spaces, with additional consequences for delegates, badgeholders and grant recipients through the [[Code of Conduct]].
-        <br>
+    <br> 
     
      - _**Engage with others with patience, kindness and extreme civility.**_
     
-        The Optimistic values are clear - we are all working towards making this the best space it can be. This requires extra patience and kindness.
+        The Optimistic Values are clear - we are all working towards making this the best space it can be. This requires extra patience and kindness.
     
         This is especially important when having hard conversations. Those are the times when kindness and understanding are needed the most. If you find yourself getting rude or snappy, go take a breather. We will still be here when you get back. ❤️
-        <br>
+
+![[Untitled (1).jpg]]
+        
 2. _**Have a positive impact through adding value.**_
     <br>
     - _**Have meaningful engagement by only posting when you have something valuable to add.**_
@@ -35,9 +43,9 @@ We expect that a base level of civility, respect, and understanding be maintaine
         <br>
 
 
-    - _**When making a claim, provide proof.**_
+    - _**When making a claim, provide proof and do it in the designated channels and spaces.**_
     
-        If you make a claim of any kind you should always provide proof. Claims are an essential tool for Optimists to make informed decisions. Keep your claims to the evidence, make sure your argument is clear and has a high level of integrity. Claims that involve emotive or inflammatory language or make unsubstantiated claims will be removed, and may result in suspension from community platforms. For more details see the [[Guidance on Severe Code of Conduct Violations|definitions of harassment]].
+        If you make a claim of any kind you should always provide proof. Please make use of designated channels and spaces for feedback, avoiding using social media or public spaces to host conversations that can affect the goodwill of the Collective. Claims are an essential tool for Optimists to make informed decisions. Keep your claims to the evidence, make sure your argument is clear and has a high level of integrity. Claims that involve emotive or inflammatory language or make unsubstantiated claims will be removed, and may result in suspension from community platforms. For more details see the [[Guidance on Severe Code of Conduct Violations|definitions of harassment]].
         <br>
     
     - _**Use common sense.**_
@@ -58,13 +66,25 @@ We expect that a base level of civility, respect, and understanding be maintaine
     
     - _**Stay safe.**_
     
-        There are a lot of target scams and phishing attempts in crypto. Keep your keys safe! Members of this forum will never ask you for a private key. Verify web addresses before interacting with dapps and do your own research. Seriously, a quick google can save you from a scam! Stay safe out there.
-        
+        There are a lot of target scams and phishing attempts in crypto. Keep your keys safe! Members of this forum will never ask you for a private key. Verify web addresses before interacting with dapps and do your own research. Seriously, a quick google can save you from a scam! Stay safe out there. If you see any scams, report them and call it out!
+        <br>
+4. _**Engage in open communication**_
+<br>
+
+To help prevent violations, the Code of Conduct Council is available to act as a facilitator, to provide feedback on any particular situation, and/or to create a safe space for feedback, or similar. Please email [codeofconduct@optimism.io](mailto:codeofconduct@optimism.io) or raise a ticket to request preventative engagement. The Code of Conduct Council may make non-binding recommendations as part of this process.
 
 # Change Process
 
-The Code of Conduct, the Rules of Engagement, and any other associated documents, must only be updated during Reflection Periods or following extraordinary circumstances that require immediate updates. In all cases, a change log will be published for delegates.
+The Code of Conduct, the Rules of Engagement, and any other associated documents, must only be updated during Reflection Periods or following extraordinary circumstances that require immediate updates. In all cases, a change log will be published.
+
+# Reporting
+
+- To report a Rules of Engagement violation by any user you may flag the violation using tools provided by the platform on which it has occurred. These will be processed by the NERDs or govNERDs.
+    
+- You should report violations made by delegates or Citizens directly using this [reporting form.](https://docs.google.com/forms/d/e/1FAIpQLSeWdV673xKAUpu3PmeWapKW_PEnyVv0Bk8KLgD0Ysywol2geg/viewform?usp=sf_link). Violations pertaining to members of the Token House will be processed by the Code of Conduct Council. Violations pertaining to members of the Citizens’ House will be referred to the Foundation. In case an individual is a member of both Houses, the Foundation and the Code of Conduct Council will determine which party will process the report.
 
 # Enforceability
 
-If you do not abide by the rules above, you will receive a warning from the Foundation. After two warnings, you will receive a suspension for 1 month. After that, you will receive a 3 month suspension. If you continue not abiding by the above rules, you will be permanently removed from all Optimism community spaces. Any violation that rises to the level of those discussed in the Guidance on Severe Violations will result in a one month suspension right away.
+If possible and requested in the reporting form, on a case-by-case scenario, Alternative Dispute Resolution Mechanisms will be prioritized. The Code of Conduct Council may also mediate to achieve resolution, if appropriate.
+
+If you do not abide by the rules above, you will receive a warning. After two warnings, you may receive a suspension for 1 month. After that, you may receive a 3 month suspension. If you continue to violate the above rules, you may be permanently removed from all Optimism community spaces. Any violation that rises to the level of those discussed in the Guidance on Severe Violations will immediately result in a one month suspension.
