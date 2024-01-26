@@ -1,5 +1,5 @@
 > [!info]- This post was originally published in the Governance Forum
-> To view the source, please click [here](https://gov.optimism.io/t/grant-misuse-reporting-process/7346). Initially published on January 11, 2024 and last edited on January 11, 2023.
+> To view the source, please click [here](https://gov.optimism.io/t/grant-misuse-reporting-process/7346). Initially published on January 11, 2024 and last edited on January 11, 2024.
 
 <span class="notvisible"></span>
 # Index
