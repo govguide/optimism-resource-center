@@ -1,5 +1,5 @@
 > [!info]- This post was originally published in the Governance Forum
-> To view the source, please click [here](https://gov.optimism.io/t/collective-grant-policies/5833). Initially published on April 6, 2023 and last modified on Feb 9, 2023.
+> To view the source, please click [here](https://gov.optimism.io/t/collective-grant-policies/5833). Initially published on April 6, 2023 and last modified on February 9, 2024.
 
 <span class="notvisible"></span>
 # Collective Grant Policies
