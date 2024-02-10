@@ -1,10 +1,12 @@
 > [!info]- This post was originally published in the Governance Forum
-> To view the source, please click [here](https://gov.optimism.io/t/collective-grant-policies/5833). Initially published on April 6, 2023 and last modified on Dec 14, 2023.
+> To view the source, please click [here](https://gov.optimism.io/t/collective-grant-policies/5833). Initially published on April 6, 2023 and last modified on Feb 9, 2023.
 
 <span class="notvisible"></span>
 # Collective Grant Policies
 
-These grant policies apply to all Governance Fund grants. Failure to abide with the below policies may result in the refusal to distribute subsequent milestone based distributions and/or the clawback of a locked grant. In the event that an applicant misuses their grant, a report should be filed and their grant will be uploaded to a public database (more information coming soon!)
+These grant policies apply to all Governance Fund grants. Failure to abide with the below policies may result in the refusal to distribute subsequent milestone based distributions and/or the clawback of a locked grant.
+
+In the event that an applicant misuses their grant in a way that does not constitute a violation of these policies, a report should be filed via the [Grant Misuse Reports category](https://gov.optimism.io/t/about-the-grant-misuse-reports-category/7578) and their grant will be uploaded to a public database.
 
 Note that these grant policies do not apply to Retroactive Public Goods Funding (RPGF) grants.
 
@@ -51,6 +53,8 @@ Grant recipients must not self-delegate growth experiments grants for use in gov
 
 ### Changes to Proposals
 
+(Violation 1f)
+
 Grant recipients must execute the grant in accordance with what is outlined in the approved grant proposal. Grant recipients that wish to change the use of the grant from what is outlined in the proposal must submit a new proposal requesting approval for the change. To do so, they must follow the grants process in place at the time. If the change is not approved, the recipient must execute the grant as outlined in the original proposal or return the portion of grant funding affected by the unapproved change.
 
 Grant recipients must distribute growth experiment or other user incentive grants within six months of the grant being made unless they give public notice to the community explaining any delay or request an extension approved by the Grants Council.
@@ -68,5 +72,8 @@ On-chain data or other publicly verifiable information is favored for the determ
 An example of a critical milestone is: “We will deploy X smart contract on Y date.”
 
 ---
+## Enforcement
 
-Violation of these policies are violations of the [[Code of Conduct]]. Given the importance of these policies, the Optimism Foundation can also enforce them and claw back any grants found to be in violation. To report a violation of the grant policies, use this [reporting form](https://docs.google.com/forms/d/e/1FAIpQLSeLySdMNyQ8aJdzOrMN3BfMy8fChsDuSQW6LLuIRuVm9gmavQ/viewform?usp=sf_link).
+Violation of these policies are violations of the [[Code of Conduct]]… Given the importance of these policies, the Optimism Foundation can also enforce them and claw back any grants found to be in violation. To report a violation of the grant policies, use this [reporting form](https://docs.google.com/forms/d/e/1FAIpQLSeLySdMNyQ8aJdzOrMN3BfMy8fChsDuSQW6LLuIRuVm9gmavQ/viewform?usp=sf_link). Violations will be processed by the Token House Code of Conduct Council.
+
+For misuse that does not constitute a violation of these policies, please follow the [[Grant Misuse Reporting Process]]
