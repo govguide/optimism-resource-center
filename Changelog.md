@@ -5,8 +5,15 @@ To ensure that the Resource Center is always up to date, we are currently experi
 
 | Activity | GitHub Link | Date* |
 | ---- | ---- | ---- |
+| Added [[Airdrop 4]] | [GitHub commit](https://github.com/govguide/optimism-resource-center/commit/eb7724ea704fbe4076e7ee21f16bb21db38ba60b) | Feb 21, 2024 |
+| Updated [[Collective Grants Overview]] to reflect upstream changes | [GitHub commit](https://github.com/govguide/optimism-resource-center/commit/619a82790d400990a9a5363cb042962f74a11bac) | Feb 20, 2024 |
+| Updated [[Collective Grant Policies]] to reflect upstream changes | [GitHub commit](https://github.com/govguide/optimism-resource-center/commit/1cec2f8e204beabfd585665c0df5585aa5f2d5ea) | Feb 9, 2024 |
+| Updated [[Code of Conduct]] to reflect upstream changes | [GitHub commit](https://github.com/govguide/optimism-resource-center/commit/e78f5d1b22c1ffa319f89090ff2ba583e948196f) | Feb 9, 2024 |
+| Updated [[Collective Council Framework]] to reflect upstream changes | [GitHub commit](https://github.com/govguide/optimism-resource-center/commit/856d4da6ef2dff136c3595609f38415c36483610) | Jan 29, 2024 |
+| Updated [[RetroPGF Round 3]] to reflect upstream changes | [GitHub commit](https://github.com/govguide/optimism-resource-center/commit/9d7df472d6f322a1df6ef3ea9aa6bec52b6a9e22) | Jan 19, 2024 |
 | Added [[Grants Council - Internal Operating Procedures for Season 5]] | [GitHub commit](https://github.com/govguide/optimism-resource-center/commit/b5a82c321cb9a0d38fbd4e57250d2a7fcf962c1d) | Jan 12, 2024 |
 | Added [[Grant Misuse Reporting Process]] | [GitHub commit](https://github.com/govguide/optimism-resource-center/commit/f35d8a6ee240b3ae02e965bd807a79c1ccbb1e0f) | Jan 11, 2024 |
+| Updated [[OP Allocations]] to reflect upstream changes | [GitHub commit](https://github.com/govguide/optimism-resource-center/commit/b9c4f419442205600f06a7782370b501c9f1d841) | Dec 18, 2023 |
 | Updated [[Collective Grants Overview]] to reflect upstream changes | [GitHub commit](https://github.com/govguide/optimism-resource-center/commit/6ce86e105e484c559990990e7e58132dd6f2b708) | Dec 15, 2023 |
 | Updated [[What is the Optimism Collective?]] to reflect upstream changes | [GitHub commit](https://github.com/govguide/optimism-resource-center/commit/b828592cdfb6f4755b7ab3bc6ca262d87458f754) | Dec 14, 2023 |
 | Updated [[Seasons and voting cycles]] to reflect upstream changes | [GitHub commit](https://github.com/govguide/optimism-resource-center/commit/35a69495d2059865f359c82a1440def94a98ecff) | Dec 14, 2023 |
