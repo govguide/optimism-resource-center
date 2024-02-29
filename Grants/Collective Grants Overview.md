@@ -1,5 +1,5 @@
 > [!info]- This post was originally published in the Community Docs
-> To view the source, please click [here](https://community.optimism.io/docs/governance/get-a-grant/). Last modified on December 15, 2023.
+> To view the source, please click [here](https://community.optimism.io/docs/governance/get-a-grant/). Last modified on February 20, 2024.
 
 <span class="notvisible"></span>
 There are several ways the Optimism Collective supports builders with grants. There are two main types of grants: Collective grants, which are upfront grants for projects to be completed in the future, and RetroPGF, which are grants for projects that have already been completed based on their impact.
@@ -16,14 +16,14 @@ There are two main sources of Collective Grants.
 
 [[Token House Missions|Missions]] are grants aligned with one of the [[Collective Intents - Season 5|Collective Intents]]. Mission Requests are specified initiatives that can be completed start-to-finish (marked done within 12 months). Each Mission Request has a bounty of OP attached. The Foundation and the Top 100 Token House Delegates can issue Mission Requests. Any team can submit a Mission Application to fulfill a Request.
 
-- You can view the full list of Mission Requests **[here](https://github.com/ethereum-optimism/ecosystem-contributions/issues?q=is%3Aissue+is%3Aopen+RFP)** (Delegate Mission Requests will be added after the Token House approves them on January 24th.)
+- You can view the full list of Mission Requests [here](https://github.com/ethereum-optimism/ecosystem-contributions/issues?page=1&q=is%3Aissue+is%3Aopen+label%3A%22Delegate+Mission+Request%22)
 - Find an open Mission Request on the list that you’d like to work on.
-- Submit your application via the application link or directly as a comment, as specified, on the **[Github Issue](https://github.com/ethereum-optimism/ecosystem-contributions/issues?q=is%3Aissue+is%3Aopen+RFP).** Each Mission Request will specify a submission and selection deadline.
+- Submit your application via the application link or directly as a comment, as specified, on the [Github Issue](https://github.com/ethereum-optimism/ecosystem-contributions/issues?page=1&q=is%3Aissue+is%3Aopen+label%3A%22Delegate+Mission+Request%22). Each Mission Request will specify a submission and selection deadline.
 - Delegate Mission Applications will be evaluated and selected by the Grants Council, with the help of the Developer Advisory Board. Foundation Mission Requests will be evaluated and selected by the Optimism Foundation.
 
 **How to apply**:
 
-- See the [[Mission Applicant Guide - How to Submit a Mission Application|Mission Applicant Guide]] and visit the [Github](https://github.com/ethereum-optimism/ecosystem-contributions/issues?q=is%3Aissue+is%3Aopen+RFP)
+- See the [[Mission Applicant Guide - How to Submit a Mission Application|Mission Applicant Guide]] and visit the [Github](https://github.com/ethereum-optimism/ecosystem-contributions/issues?page=1&q=is%3Aissue+is%3Aopen+label%3A%22Delegate+Mission+Request%22)
 - Ask any questions you have about Delegate Mission Requests in the # grants channel of our [Discord](https://discord-gateway.optimism.io/)
 
 ### 2. Foundation Funds
