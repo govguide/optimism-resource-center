@@ -26,7 +26,9 @@ Learn about the different types of Collective Grants, trust tiers, and grant pol
 - [[Collective Grant Policies]]
 - [[Grant Token Lock Explainer]]
 - [[Public Reporting Requirements for Grantees]]
+- [[Grant Misuse Reporting Process]]
 - Grants Council
+   - [[Grants Council - Internal Operating Procedures for Season 5]]
    - [[Grants Council Charter v0.1]]
    - [[Season 5 Grants Council Operating Budget]]
 - Missions
@@ -43,6 +45,7 @@ Learn everything you need to know as an OP Holder.
 - [[How to Delegate Your Tokens]]
 - [[OP Economics]]
 - [[OP Allocations]]
+- [[Airdrop 4]]
 - [[Airdrop 3]]
 - [[Airdrop 2]]
 - [[Airdrop 1]]
