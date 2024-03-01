@@ -5,6 +5,8 @@ To ensure that the Resource Center is always up to date, we are currently experi
 
 | Activity | GitHub Link | Date* |
 | ---- | ---- | ---- |
+| Updated [[RetroPGF Round 3]] to reflect upstream changes | [GitHub commit](https://github.com/govguide/optimism-resource-center/commit/ab4fea9760a0a3f46d1d6476e1cbe97feea5a6d2) | Mar 1, 2024 |
+| Added [[RetroPGF 3 - Learnings & Reflections]] | [GitHub commit](https://github.com/govguide/optimism-resource-center/commit/7642187a3a76143849d24177a40e5331b974c359) | Feb 29, 2024 |
 | Added [[Airdrop 4]] | [GitHub commit](https://github.com/govguide/optimism-resource-center/commit/eb7724ea704fbe4076e7ee21f16bb21db38ba60b) | Feb 21, 2024 |
 | Updated [[Collective Grants Overview]] to reflect upstream changes | [GitHub commit](https://github.com/govguide/optimism-resource-center/commit/619a82790d400990a9a5363cb042962f74a11bac) | Feb 20, 2024 |
 | Updated [[Collective Grant Policies]] to reflect upstream changes | [GitHub commit](https://github.com/govguide/optimism-resource-center/commit/1cec2f8e204beabfd585665c0df5585aa5f2d5ea) | Feb 9, 2024 |
