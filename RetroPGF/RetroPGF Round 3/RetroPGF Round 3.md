@@ -1,5 +1,5 @@
 > [!info]- This post was originally published in the Community Docs
-> To view the source, please click [here](https://community.optimism.io/docs/governance/retropgf-3). Last edited on January 19, 2024.
+> To view the source, please click [here](https://community.optimism.io/docs/governance/retropgf-3). Last edited on March 1, 2024.
 
 <span class="notvisible"></span>
 The Optimism Collective’s third round of Retroactive Public Goods Funding (RetroPGF) took place in the fall of 2023. RetroPGF 3 allocated 30m OP tokens to **reward contributions that have supported the development and adoption of Optimism.**
@@ -16,7 +16,7 @@ The Optimism Collective’s third round of Retroactive Public Goods Funding (Ret
 
 RetroPGF recipients must complete a KYC process with the Optimism Foundation. If you're a recipient, please direct questions or problems with the KYC & grant delivery process to compliance@optimism.io.
 
-A written retrospective with the learnings & reflections on RetroPGF 3 will follow.
+You can view the written retrospective with the learnings & reflections on RetroPGF 3 [[RetroPGF 3 - Learnings & Reflections|here]].
 
 ## Voting
 
