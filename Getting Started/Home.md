@@ -75,6 +75,7 @@ Learn about the Token House, one of the two houses of the Optimism Collective.
 - [[Governing Documents]]
 - [[OPerating Manual]]
 - [[Working Constitution]]
+- [[Framework for Protocol Upgrades]]
 - [[Seasons and voting cycles]]
 - [[Collective Intents - Season 5]]
 - [[Collective Council Framework]]
@@ -85,7 +86,7 @@ Learn about the Token House, one of the two houses of the Optimism Collective.
     - [[Governance Fund Overview]]
     - [[Governance Fund Charter]]
 - Law of Chains
-    - [[Law of Chains v0.1 - Full Draft]]
+    - [[Law of Chains v0.1]]
     - [[Law of Chains v0.1 - Section-by-Section Overview]]
     - [[Law of Chains Disclaimer]]
 - Anticapture Commission
