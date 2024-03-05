@@ -27,6 +27,7 @@ Learn about the different types of Collective Grants, trust tiers, and grant pol
 - [[Grant Token Lock Explainer]]
 - [[Public Reporting Requirements for Grantees]]
 - [[Grant Misuse Reporting Process]]
+- [[Milestone Assessment]]
 - Grants Council
    - [[Grants Council - Internal Operating Procedures for Season 5]]
    - [[Grants Council Charter v0.1]]
